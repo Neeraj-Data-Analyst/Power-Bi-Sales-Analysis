@@ -16,7 +16,7 @@ Analyze retail sales data to uncover insights about revenue trends, customer beh
 - 🔹 Region-wise and Category-wise Sales Breakdown
 
 ## 🖼️ Report Preview
-![Dashboard Preview](Screenshots/Overview.png)
+![Dashboard Preview](Screenshots/executive_summary.png)
 
 > 📝 Note: More dashboard views are available in the **Screenshots/** folder.
 
@@ -34,7 +34,6 @@ PowerBI-Retail-Sales-Analysis/
 3. Explore dashboards and DAX logic
 
 ## 🔄 Future Enhancements
-- Add predictive sales trends using Python/Scikit-learn
 - Integrate SQL-based live data connection
 - Interactive filter-based storytelling
 
