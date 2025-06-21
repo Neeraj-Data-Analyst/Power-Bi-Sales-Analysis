@@ -16,7 +16,7 @@ Analyze retail sales data to uncover insights about revenue trends, customer beh
 - 🔹 Region-wise and Category-wise Sales Breakdown
 
 ## 🖼️ Report Preview
-![Dashboard Preview](Screenshots/executive_summary.png)
+![Dashboard Preview](Screenshots/executive_summary.PNG)
 
 > 📝 Note: More dashboard views are available in the **Screenshots/** folder.
 
