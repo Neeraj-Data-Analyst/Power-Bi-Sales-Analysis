@@ -1,0 +1,11 @@
+ProductID,ProductName,Category,Cost
+1,Echo Dot,Electronics,15
+2,Kindle,Books,50
+3,Fire TV Stick,Electronics,20
+4,Smart Plug,Smart Home,10
+5,Alexa Speaker,Smart Home,25
+6,Ring Doorbell,Home Security,40
+7,Smart Bulb,Smart Home,8
+8,Eero Router,Networking,30
+9,"Tablet 10""",Electronics,60
+10,Security Camera,Home Security,35
