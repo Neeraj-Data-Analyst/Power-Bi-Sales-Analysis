@@ -39,4 +39,5 @@ PowerBI-Retail-Sales-Analysis/
 
 ## 👤 Author
 [C.V.S.NEERAJ KUMAR]  
-[linkedin.com/in/neeraj-kumar-1376a7163] | Neeraj_DA | cvsneeraj@gmail.com
+[LinkedIn](https://www.linkedin.com/in/neeraj-kumar-1376a7163) | [GitHub](https://github.com/Neeraj-Data-Analyst)  
+📧 cvsneeraj@gmail.com
