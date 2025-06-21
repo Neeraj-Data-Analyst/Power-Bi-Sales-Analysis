@@ -21,12 +21,13 @@ Analyze retail sales data to uncover insights about revenue trends, customer beh
 > 📝 Note: More dashboard views are available in the **Screenshots/** folder.
 
 ## 📂 Repository Structure
-
+```
 PowerBI-Retail-Sales-Analysis/
-├── Data/ ← Raw dataset (CSV/XLSX)
-├── Report/ ← Power BI .pbix file
-├── Screenshots/ ← Dashboard previews (PNG)
-└── README.md ← Project documentation
+├── Data/              ← Raw dataset (CSV/XLSX)
+├── Report/            ← Power BI .pbix file
+├── Screenshots/       ← Dashboard previews (PNG)
+└── README.md          ← Project documentation
+```
 
 ## 🚀 How to View the Report
 1. Download the `.pbix` file from `/Report`
